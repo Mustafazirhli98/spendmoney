@@ -1,0 +1,31 @@
+.product-container {
+    display: flex;
+    justify-content: center;
+    flex-wrap: wrap;
+    align-items: center;
+    height: 100%;
+    margin-top: 150px;
+    margin-left: 100px;
+    margin-right: 100px;
+    
+}
+
+.product {
+    width: 250px;
+    height: 250px;
+    margin-bottom: 30px !important ;
+}
+
+.container-header {
+    height: 100px;
+    width: 100%;
+    background: linear-gradient(90deg, rgba(2,0,36,1) 0%, rgba(9,121,101,1) 35%, rgba(0,212,255,1) 100%);
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    color: #fff;
+    font-size: 25px;
+    position: fixed;
+    top: 0;
+}
+

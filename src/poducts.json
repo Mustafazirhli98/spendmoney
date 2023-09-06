@@ -1,0 +1,32 @@
+[
+     {
+        "id": 1,
+        "title": "Tshirt",
+        "price": 250,
+        "img" : "https://static.zara.net/photos///2023/I/0/2/p/1887/411/825/2/w/1920/1887411825_6_1_1.jpg?ts=1687859680836"
+     },
+     {
+        "id": 2,
+        "title": "Ayakkabı",
+        "price": 2000,
+        "img" : "https://st-vans.mncdn.com/mnresize/1500/1500/Content/media/ProductImg/original/637639363468969344.jpg"
+     },
+     {
+        "id": 3,
+        "title": "Ceket",
+        "price": 1400,
+        "img" : "https://cdn.lutvelizade.com.tr/gorseller/vatkali-blazer-kirmizi-kadin-ceket.jpg"
+     },
+     {
+        "id": "4",
+        "title": "Mont",
+        "price": 3000,
+        "img" : "https://st3.myideasoft.com/idea/ab/68/myassets/products/948/kaz-tuyu-mont-1.jpg?revision=1679564731"
+     },
+     {
+        "id": "5",
+        "title": "Saat",
+        "price": 1500,
+        "img" : "https://akn-lacoste.a-cdn.akinoncloud.com/products/2021/06/14/152937/7ed20377-1a98-43dd-8552-3864f64d19bd_size2000x2000_cropCenter.jpg"
+     }  
+]
